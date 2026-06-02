@@ -20,11 +20,12 @@
 
 ## 当前阶段
 
-**脑暴与设计阶段** — 设计文档已完成，实施计划待编写。
+**⏸️ ExamAI 已暂停** — 优先推进 DATA for AI 职业转型计划。ExamAI 将作为方案三（AI 数据工程改造版）在项目一完成后启动。
 
 ## 关键文档
 
 - 设计文档: `docs/superpowers/specs/2026-05-30-examai-design.md`
+- **职业转型计划**: `docs/superpowers/specs/2026-06-02-career-ai-data-engineering-plan.md`
 - 实施计划: `docs/superpowers/plans/` (待编写)
 
 ## MVP 范围
